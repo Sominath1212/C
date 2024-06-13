@@ -1,0 +1,4 @@
+12 is age of student
+name:sarthak
+70.000000 is average marks of student
+m is gender of student
